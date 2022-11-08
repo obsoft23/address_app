@@ -32,8 +32,8 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
-        child: _widgetOptions.elementAt(_selectedIndex),
+      body: IndexedStack(
+        children: [_widgetOptions.elementAt(_selectedIndex)],
       ),
       bottomNavigationBar: BottomNavigationBar(
         items: const <BottomNavigationBarItem>[
@@ -43,8 +43,8 @@ class _HomePageState extends State<HomePage> {
             backgroundColor: Colors.red,
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.business),
-            label: 'List',
+            icon: Icon(Icons.yard_outlined),
+            label: 'Page',
             backgroundColor: Colors.green,
           ),
         ],
