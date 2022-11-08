@@ -5,10 +5,8 @@ Address Details Finder Flutter project.
 
 <hr>
 
-<image src="https://user-images.githubusercontent.com/46889336/200467239-8d6063e3-a4f2-4d45-86ea-32abd3a0aba9.png" width="300" height="650" />
-<hr>
+<image src="https://user-images.githubusercontent.com/46889336/200467239-8d6063e3-a4f2-4d45-86ea-32abd3a0aba9.png" width="300" height="650" /> <image src="https://user-images.githubusercontent.com/46889336/200479757-df839f0c-4e90-4708-be40-015cbdcb01d6.png" width="300" height="650" />
 
 <hr>
-
 
 <hr>
